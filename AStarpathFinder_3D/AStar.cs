@@ -8,11 +8,6 @@ namespace Assets.Scripts
 {
     internal static class AStarLib
     {
-        private enum AStarRealCostTable : byte
-        {
-            Straight = 10
-        };
-
         public struct AStarNode : IEquatable<AStarNode>
         {
             public float costFromStart, costToEnd, totalCost;
