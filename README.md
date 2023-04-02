@@ -4,7 +4,7 @@ This code was created on the assumption that
 
 - The movement of the road is parallel to the x, y, and z axes except for diagonal movement
 
-===========================================================================================
+===========================================================================
 
 The sample code for using the library is as follows
 ```
